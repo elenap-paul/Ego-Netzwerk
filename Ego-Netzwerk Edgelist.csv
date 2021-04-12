@@ -1,0 +1,11 @@
+from,to,weight
+HK,ED,4
+HK,CK,4
+HK,AA,4
+HK,JK,3
+CK,AA,4
+AA,CK,4
+JK,HK,3
+AA,HK,4
+CK,HK,4
+ED,HK,4
